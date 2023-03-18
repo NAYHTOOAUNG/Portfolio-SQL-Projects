@@ -1,31 +1,35 @@
-# Project Name
+# Portfolio Projects
 
-TODO: Write a project description
+SQL Data Exploration - COVID-19 Dataset 
+
+SQL Data Cleaning - Nashville Housing Dataset
 
 ## Installation
 
-TODO: Describe the installation process
+Subscription/Installation Of MS Office 365 (For MS Excel) & MS SQL Server Management Studio 18
 
 ## Usage
 
-TODO: Write usage instructions
+Exploration Of COVID-19 Vaccinations & Deaths Rate (Year 2020-2023) 
+
+Cleaning (Removing & Reformatting) Nashville Housing Records
 
 ## Contributing
 
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+1. Fork the repo
+2. Create the feature branch:
+3. Commit the changes:
+4. Push to the branch:
+5. Submit a pull request
 
 ## History
 
-TODO: Write history
+Data Analyst Bootcamp 2023
 
 ## Credits
 
-TODO: Write credits
+Alex Freberg - Analytics Manager| YouTube - Alex The Analyst
 
 ## License
 
-TODO: Write license
+LICENSE.txt
